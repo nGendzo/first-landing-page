@@ -1,4 +1,4 @@
-# first-landing-page
+# first-landing-page-#2
 
 This will be my first indepedent work from The Odin Project foundations course. I've learnt how to use unix based operating system, specifically lighter version of Ubuntu, named Xubuntu. Using this OS I got familiar with Terminal and command language - Bash.
 
